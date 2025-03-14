@@ -33,12 +33,11 @@ The dataset includes:
 4. **Formatting & Design**: Optimized for readability and professional presentation.
 
 ## Example Dashboard Screenshot
-![Blinkit Excel Dashboard](Excel-Grocery-Data-Analysis.png)
+![Blinkit Excel Dashboard](https://github.com/meghanachowdary29042004/Excel-Grocery-DataAnalysis/blob/main/Excel-Grocery-Data-Analysis.png.png)
 
 
 ## Contribution
 Feel free to modify and improve this dashboard. Pull requests are welcome!
 
-## License
-This project is open-source under the MIT License.
+
 
